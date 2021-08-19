@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://cforsyth68.github.io/csb-llmiq/static/css/main.bed9c162.chunk.css",
+    "main.js": "https://cforsyth68.github.io/csb-llmiq/static/js/main.6dd606de.chunk.js",
+    "main.js.map": "https://cforsyth68.github.io/csb-llmiq/static/js/main.6dd606de.chunk.js.map",
+    "runtime-main.js": "https://cforsyth68.github.io/csb-llmiq/static/js/runtime-main.232bc0b2.js",
+    "runtime-main.js.map": "https://cforsyth68.github.io/csb-llmiq/static/js/runtime-main.232bc0b2.js.map",
+    "static/js/2.85eff43f.chunk.js": "https://cforsyth68.github.io/csb-llmiq/static/js/2.85eff43f.chunk.js",
+    "static/js/2.85eff43f.chunk.js.map": "https://cforsyth68.github.io/csb-llmiq/static/js/2.85eff43f.chunk.js.map",
+    "index.html": "https://cforsyth68.github.io/csb-llmiq/index.html",
+    "static/css/main.bed9c162.chunk.css.map": "https://cforsyth68.github.io/csb-llmiq/static/css/main.bed9c162.chunk.css.map",
+    "static/js/2.85eff43f.chunk.js.LICENSE.txt": "https://cforsyth68.github.io/csb-llmiq/static/js/2.85eff43f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.232bc0b2.js",
+    "static/js/2.85eff43f.chunk.js",
+    "static/css/main.bed9c162.chunk.css",
+    "static/js/main.6dd606de.chunk.js"
+  ]
+}
